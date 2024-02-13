@@ -1,0 +1,15 @@
+C:\Users\hkemi\OneDrive\Documents\GitHub\Csharp\C#\classplus\bin\Debug\net8.0\classplus.exe
+C:\Users\hkemi\OneDrive\Documents\GitHub\Csharp\C#\classplus\bin\Debug\net8.0\classplus.deps.json
+C:\Users\hkemi\OneDrive\Documents\GitHub\Csharp\C#\classplus\bin\Debug\net8.0\classplus.runtimeconfig.json
+C:\Users\hkemi\OneDrive\Documents\GitHub\Csharp\C#\classplus\bin\Debug\net8.0\classplus.dll
+C:\Users\hkemi\OneDrive\Documents\GitHub\Csharp\C#\classplus\bin\Debug\net8.0\classplus.pdb
+C:\Users\hkemi\OneDrive\Documents\GitHub\Csharp\C#\classplus\obj\Debug\net8.0\classplus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hkemi\OneDrive\Documents\GitHub\Csharp\C#\classplus\obj\Debug\net8.0\classplus.AssemblyInfoInputs.cache
+C:\Users\hkemi\OneDrive\Documents\GitHub\Csharp\C#\classplus\obj\Debug\net8.0\classplus.AssemblyInfo.cs
+C:\Users\hkemi\OneDrive\Documents\GitHub\Csharp\C#\classplus\obj\Debug\net8.0\classplus.csproj.CoreCompileInputs.cache
+C:\Users\hkemi\OneDrive\Documents\GitHub\Csharp\C#\classplus\obj\Debug\net8.0\classplus.sourcelink.json
+C:\Users\hkemi\OneDrive\Documents\GitHub\Csharp\C#\classplus\obj\Debug\net8.0\classplus.dll
+C:\Users\hkemi\OneDrive\Documents\GitHub\Csharp\C#\classplus\obj\Debug\net8.0\refint\classplus.dll
+C:\Users\hkemi\OneDrive\Documents\GitHub\Csharp\C#\classplus\obj\Debug\net8.0\classplus.pdb
+C:\Users\hkemi\OneDrive\Documents\GitHub\Csharp\C#\classplus\obj\Debug\net8.0\classplus.genruntimeconfig.cache
+C:\Users\hkemi\OneDrive\Documents\GitHub\Csharp\C#\classplus\obj\Debug\net8.0\ref\classplus.dll

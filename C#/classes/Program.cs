@@ -11,7 +11,6 @@ namespace MyApp // Note: actual namespace depends on the project name.
             calisan1.adi = "Emirhan";
             calisan1.soyadi = "Düzgün";
             calisan1.no = "1234123";
-            
             calisan1.CalisanBilgileri();
 
         }
