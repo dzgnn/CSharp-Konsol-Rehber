@@ -1,0 +1,15 @@
+C:\Users\hkemi\OneDrive\Documents\GitHub\Csharp\C#\KurucuFonksiyon\bin\Debug\net8.0\KurucuFonksiyon.exe
+C:\Users\hkemi\OneDrive\Documents\GitHub\Csharp\C#\KurucuFonksiyon\bin\Debug\net8.0\KurucuFonksiyon.deps.json
+C:\Users\hkemi\OneDrive\Documents\GitHub\Csharp\C#\KurucuFonksiyon\bin\Debug\net8.0\KurucuFonksiyon.runtimeconfig.json
+C:\Users\hkemi\OneDrive\Documents\GitHub\Csharp\C#\KurucuFonksiyon\bin\Debug\net8.0\KurucuFonksiyon.dll
+C:\Users\hkemi\OneDrive\Documents\GitHub\Csharp\C#\KurucuFonksiyon\bin\Debug\net8.0\KurucuFonksiyon.pdb
+C:\Users\hkemi\OneDrive\Documents\GitHub\Csharp\C#\KurucuFonksiyon\obj\Debug\net8.0\KurucuFonksiyon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hkemi\OneDrive\Documents\GitHub\Csharp\C#\KurucuFonksiyon\obj\Debug\net8.0\KurucuFonksiyon.AssemblyInfoInputs.cache
+C:\Users\hkemi\OneDrive\Documents\GitHub\Csharp\C#\KurucuFonksiyon\obj\Debug\net8.0\KurucuFonksiyon.AssemblyInfo.cs
+C:\Users\hkemi\OneDrive\Documents\GitHub\Csharp\C#\KurucuFonksiyon\obj\Debug\net8.0\KurucuFonksiyon.csproj.CoreCompileInputs.cache
+C:\Users\hkemi\OneDrive\Documents\GitHub\Csharp\C#\KurucuFonksiyon\obj\Debug\net8.0\KurucuFonksiyon.sourcelink.json
+C:\Users\hkemi\OneDrive\Documents\GitHub\Csharp\C#\KurucuFonksiyon\obj\Debug\net8.0\KurucuFonksiyon.dll
+C:\Users\hkemi\OneDrive\Documents\GitHub\Csharp\C#\KurucuFonksiyon\obj\Debug\net8.0\refint\KurucuFonksiyon.dll
+C:\Users\hkemi\OneDrive\Documents\GitHub\Csharp\C#\KurucuFonksiyon\obj\Debug\net8.0\KurucuFonksiyon.pdb
+C:\Users\hkemi\OneDrive\Documents\GitHub\Csharp\C#\KurucuFonksiyon\obj\Debug\net8.0\KurucuFonksiyon.genruntimeconfig.cache
+C:\Users\hkemi\OneDrive\Documents\GitHub\Csharp\C#\KurucuFonksiyon\obj\Debug\net8.0\ref\KurucuFonksiyon.dll

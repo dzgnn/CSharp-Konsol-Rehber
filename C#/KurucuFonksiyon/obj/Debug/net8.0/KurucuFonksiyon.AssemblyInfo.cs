@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("classes")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("KurucuFonksiyon")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d0bc43e674df1202d69d5b732b1f7765f15f29a3")]
-[assembly: System.Reflection.AssemblyProductAttribute("classes")]
-[assembly: System.Reflection.AssemblyTitleAttribute("classes")]
+[assembly: System.Reflection.AssemblyProductAttribute("KurucuFonksiyon")]
+[assembly: System.Reflection.AssemblyTitleAttribute("KurucuFonksiyon")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.
