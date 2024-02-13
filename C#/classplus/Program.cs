@@ -12,8 +12,6 @@ namespace MyApp // Note: actual namespace depends on the project name.
             ogrenci1.OgrNo = 17;
             ogrenci1.Sinif = 10;
             ogrenci1.BilgileriGetir();
-            ogrenci1.sinifatlat();
-            ogrenci1.BilgileriGetir();
         }
     }
 
@@ -24,7 +22,22 @@ namespace MyApp // Note: actual namespace depends on the project name.
         private int ogrNo;
         private int sinif;
 
-        public string Isim { get => isim; set => isim = value; }
+        public string Isim 
+        { 
+        get { return isim; }
+        set 
+        { 
+            if (value.Length > 15)
+            {
+                Console.WriteLine("ebenin ami!");
+                isim = "bu kadar uzun olamaz";
+            }
+            else
+                isim = value;
+        }  
+        }
+        
+        
         public string Soyisim { get => soyisim; set => soyisim = value; }
         public int OgrNo { get => ogrNo; set => ogrNo = value; }
         public int Sinif { get => sinif; set => sinif = value; }
