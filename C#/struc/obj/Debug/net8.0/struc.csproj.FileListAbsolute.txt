@@ -1,0 +1,15 @@
+C:\Users\hkemi\OneDrive\Documents\GitHub\Csharp\C#\struc\bin\Debug\net8.0\struc.exe
+C:\Users\hkemi\OneDrive\Documents\GitHub\Csharp\C#\struc\bin\Debug\net8.0\struc.deps.json
+C:\Users\hkemi\OneDrive\Documents\GitHub\Csharp\C#\struc\bin\Debug\net8.0\struc.runtimeconfig.json
+C:\Users\hkemi\OneDrive\Documents\GitHub\Csharp\C#\struc\bin\Debug\net8.0\struc.dll
+C:\Users\hkemi\OneDrive\Documents\GitHub\Csharp\C#\struc\bin\Debug\net8.0\struc.pdb
+C:\Users\hkemi\OneDrive\Documents\GitHub\Csharp\C#\struc\obj\Debug\net8.0\struc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hkemi\OneDrive\Documents\GitHub\Csharp\C#\struc\obj\Debug\net8.0\struc.AssemblyInfoInputs.cache
+C:\Users\hkemi\OneDrive\Documents\GitHub\Csharp\C#\struc\obj\Debug\net8.0\struc.AssemblyInfo.cs
+C:\Users\hkemi\OneDrive\Documents\GitHub\Csharp\C#\struc\obj\Debug\net8.0\struc.csproj.CoreCompileInputs.cache
+C:\Users\hkemi\OneDrive\Documents\GitHub\Csharp\C#\struc\obj\Debug\net8.0\struc.sourcelink.json
+C:\Users\hkemi\OneDrive\Documents\GitHub\Csharp\C#\struc\obj\Debug\net8.0\struc.dll
+C:\Users\hkemi\OneDrive\Documents\GitHub\Csharp\C#\struc\obj\Debug\net8.0\refint\struc.dll
+C:\Users\hkemi\OneDrive\Documents\GitHub\Csharp\C#\struc\obj\Debug\net8.0\struc.pdb
+C:\Users\hkemi\OneDrive\Documents\GitHub\Csharp\C#\struc\obj\Debug\net8.0\struc.genruntimeconfig.cache
+C:\Users\hkemi\OneDrive\Documents\GitHub\Csharp\C#\struc\obj\Debug\net8.0\ref\struc.dll
