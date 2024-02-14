@@ -42,10 +42,8 @@ namespace MyApp // Note: actual namespace depends on the project name.
         public int OgrNo { get => ogrNo; set => ogrNo = value; }
         public int Sinif { get => sinif; set => sinif = value; }
 
-        public Ogrenci()
-        {
-           
-        }
+        public Ogrenci(){}
+        
         public Ogrenci(string soyisim, int ogrNo, int sinif, string isim)
         {
             Soyisim = soyisim;
