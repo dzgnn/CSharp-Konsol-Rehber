@@ -13,7 +13,8 @@ namespace MyApp // Note: actual namespace depends on the project name.
 
             Console.WriteLine("alan : {0}", dikdortgen.AlanHesapla());
 
-            DikdortgenStruct dikdortgenStruct = new DikdortgenStruct();
+            // DikdortgenStruct dikdortgenStruct = new DikdortgenStruct();
+            DikdortgenStruct dikdortgenStruct;
             dikdortgenStruct.kisakenar = 5;
             dikdortgenStruct.uzunkenar = 10;
             Console.WriteLine("alan : {0}", dikdortgenStruct.AlanHesapla());
@@ -34,7 +35,7 @@ namespace MyApp // Note: actual namespace depends on the project name.
     }
 
 
-    class DikdortgenStruct
+    struct DikdortgenStruct
     {
         public int kisakenar;
 

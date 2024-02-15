@@ -1,0 +1,15 @@
+C:\Users\hkemi\OneDrive\Documents\GitHub\Csharp\C#\Enum\bin\Debug\net8.0\Enum.exe
+C:\Users\hkemi\OneDrive\Documents\GitHub\Csharp\C#\Enum\bin\Debug\net8.0\Enum.deps.json
+C:\Users\hkemi\OneDrive\Documents\GitHub\Csharp\C#\Enum\bin\Debug\net8.0\Enum.runtimeconfig.json
+C:\Users\hkemi\OneDrive\Documents\GitHub\Csharp\C#\Enum\bin\Debug\net8.0\Enum.dll
+C:\Users\hkemi\OneDrive\Documents\GitHub\Csharp\C#\Enum\bin\Debug\net8.0\Enum.pdb
+C:\Users\hkemi\OneDrive\Documents\GitHub\Csharp\C#\Enum\obj\Debug\net8.0\Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hkemi\OneDrive\Documents\GitHub\Csharp\C#\Enum\obj\Debug\net8.0\Enum.AssemblyInfoInputs.cache
+C:\Users\hkemi\OneDrive\Documents\GitHub\Csharp\C#\Enum\obj\Debug\net8.0\Enum.AssemblyInfo.cs
+C:\Users\hkemi\OneDrive\Documents\GitHub\Csharp\C#\Enum\obj\Debug\net8.0\Enum.csproj.CoreCompileInputs.cache
+C:\Users\hkemi\OneDrive\Documents\GitHub\Csharp\C#\Enum\obj\Debug\net8.0\Enum.sourcelink.json
+C:\Users\hkemi\OneDrive\Documents\GitHub\Csharp\C#\Enum\obj\Debug\net8.0\Enum.dll
+C:\Users\hkemi\OneDrive\Documents\GitHub\Csharp\C#\Enum\obj\Debug\net8.0\refint\Enum.dll
+C:\Users\hkemi\OneDrive\Documents\GitHub\Csharp\C#\Enum\obj\Debug\net8.0\Enum.pdb
+C:\Users\hkemi\OneDrive\Documents\GitHub\Csharp\C#\Enum\obj\Debug\net8.0\Enum.genruntimeconfig.cache
+C:\Users\hkemi\OneDrive\Documents\GitHub\Csharp\C#\Enum\obj\Debug\net8.0\ref\Enum.dll

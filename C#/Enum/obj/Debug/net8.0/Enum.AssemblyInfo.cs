@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("struc")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Enum")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eac2a7fe05ec6ab9b1f6f48d72ac751068f6e171")]
-[assembly: System.Reflection.AssemblyProductAttribute("struc")]
-[assembly: System.Reflection.AssemblyTitleAttribute("struc")]
+[assembly: System.Reflection.AssemblyProductAttribute("Enum")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Enum")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.
