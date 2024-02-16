@@ -12,7 +12,12 @@ public class Bitkiler:Canlilar
 }
     public class TohumluBitkiler:Bitkiler
     {
-        public TohumluBitkiler(){
+    // public override void Tepki()
+    // {
+    //     //base.Tepki();
+    //     Console.WriteLine("Tohumlu Bitkiler tohumla teppki de verir.");
+    // }
+    public TohumluBitkiler(){
             base.Fotosentez();
             base.Beslenme();
             base.Solunum();

@@ -1,0 +1,15 @@
+C:\Users\hkemi\OneDrive\Documents\GitHub\Csharp\C#\PhoneDirectory\bin\Debug\net8.0\PhoneDirectory.exe
+C:\Users\hkemi\OneDrive\Documents\GitHub\Csharp\C#\PhoneDirectory\bin\Debug\net8.0\PhoneDirectory.deps.json
+C:\Users\hkemi\OneDrive\Documents\GitHub\Csharp\C#\PhoneDirectory\bin\Debug\net8.0\PhoneDirectory.runtimeconfig.json
+C:\Users\hkemi\OneDrive\Documents\GitHub\Csharp\C#\PhoneDirectory\bin\Debug\net8.0\PhoneDirectory.dll
+C:\Users\hkemi\OneDrive\Documents\GitHub\Csharp\C#\PhoneDirectory\bin\Debug\net8.0\PhoneDirectory.pdb
+C:\Users\hkemi\OneDrive\Documents\GitHub\Csharp\C#\PhoneDirectory\obj\Debug\net8.0\PhoneDirectory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hkemi\OneDrive\Documents\GitHub\Csharp\C#\PhoneDirectory\obj\Debug\net8.0\PhoneDirectory.AssemblyInfoInputs.cache
+C:\Users\hkemi\OneDrive\Documents\GitHub\Csharp\C#\PhoneDirectory\obj\Debug\net8.0\PhoneDirectory.AssemblyInfo.cs
+C:\Users\hkemi\OneDrive\Documents\GitHub\Csharp\C#\PhoneDirectory\obj\Debug\net8.0\PhoneDirectory.csproj.CoreCompileInputs.cache
+C:\Users\hkemi\OneDrive\Documents\GitHub\Csharp\C#\PhoneDirectory\obj\Debug\net8.0\PhoneDirectory.sourcelink.json
+C:\Users\hkemi\OneDrive\Documents\GitHub\Csharp\C#\PhoneDirectory\obj\Debug\net8.0\PhoneDirectory.dll
+C:\Users\hkemi\OneDrive\Documents\GitHub\Csharp\C#\PhoneDirectory\obj\Debug\net8.0\refint\PhoneDirectory.dll
+C:\Users\hkemi\OneDrive\Documents\GitHub\Csharp\C#\PhoneDirectory\obj\Debug\net8.0\PhoneDirectory.pdb
+C:\Users\hkemi\OneDrive\Documents\GitHub\Csharp\C#\PhoneDirectory\obj\Debug\net8.0\PhoneDirectory.genruntimeconfig.cache
+C:\Users\hkemi\OneDrive\Documents\GitHub\Csharp\C#\PhoneDirectory\obj\Debug\net8.0\ref\PhoneDirectory.dll

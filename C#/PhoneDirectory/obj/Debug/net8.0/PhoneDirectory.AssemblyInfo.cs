@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Inheritance")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("PhoneDirectory")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+280dad41d69dcba804e2167f47d77a3ae6c9176b")]
-[assembly: System.Reflection.AssemblyProductAttribute("Inheritance")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Inheritance")]
+[assembly: System.Reflection.AssemblyProductAttribute("PhoneDirectory")]
+[assembly: System.Reflection.AssemblyTitleAttribute("PhoneDirectory")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.
